@@ -81,11 +81,4 @@ if __name__ == '__main__':
     else:
         print("[-] Please, Enter Valid option ...")
 
-    """"
-    Test Info:
-
-    VictimIP = "192.168.1.24"
-    VictimMAC = "08-00-27-69-58-34"
-    RouterIP = "192.168.1.1"
-    RouterMAC = "58-d0-61-8c-40-e3"
-    """
+    
